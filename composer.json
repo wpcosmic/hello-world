@@ -1,0 +1,11 @@
+{
+    "name": "wpcosmic/hello-world",
+    "description": "Hello, World!",
+    "autoload": {
+        "psr-4": {
+            "WPCosmic\\HelloWorld\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
